@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    background-image: url( "/homepage-abtus-img.jpg" ); 
+    background-repeat: no-repeat;
+    background-size: 100% ;
+}
+
+
+header{
+    background-color: antiquewhite;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+
+a{
+    text-decoration: none ;
+    color: black;
+}
+
+
+main{
+    width: 600px ;
+    margin: 200px 150px;
+}
+
+
+.btn2{
+    background: none;
+    border: 2px solid;rgb(17, 228, 157);
+    padding: 5px;
+    color: rgb(17, 228, 157);
+}
